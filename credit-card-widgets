@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+    <h1> What is a credit card </h1>
+
+ <p>
+A credit card is a plastic or metal payment card that allows people to make purchases without having the money up front, then pay back the card issuer over time. In return for the ability to make purchases on credit, the cardholder may have to pay interest or fees. Those fees and interest charges depend on the card and how soon the cardholder pays the bill in full.
+ </p>
+
+ <p>
+Using a credit card responsibly also is one of the most efficient ways to build credit. Having a solid credit history is crucial for things like buying a house, purchasing a car or getting approved for a personal loan in the future.
+ </p>
+
+ <h4> Key Things to Know About Credit Cards </h4>
+
+ <p>
+Making a purchase with a credit card enables the user to securely borrow money as needed and then repay the card’s issuer after the fact.
+Using a credit card responsibly is the easiest way to build a good credit score.
+Other benefits for credit card users include the opportunity to earn rewards on purchases, the flexibility to pay off large purchases over time, or the chance to reduce the cost of existing debt through a balance transfer.
+Banks and credit unions offer credit cards because they are a good source of income from fees and interest charges.
+Credit cards may come with fees. Late fees apply to nearly all credit cards when you don’t pay at least the minimum payment by the due date. Annual, monthly, and one-time fees may be charged just to have certain credit cards, too.
+To qualify for a credit card account, an applicant must be at least 18 years old with enough income to afford monthly bill payments.
+There is no minimum age to get a credit card as an authorized user.
+Opinions and ratings are our own. This content is not provided, commissioned or endorsed by any issuer.
+ 
+ #credit-card-widgets
+ </p>
+ 
+
+            <script>
+                (function(){
+                    var d = document.createElement('script');d.async = true;
+                    d.addEventListener("load",function(){
+                        EmpowersWidget({
+                            adUnit: "1a5986f1-4f6f-4ba2-8987-e60a885830c1",
+                            emKey: "4ede69b1-7033-4106-95df-0ae41d566d36",
+                        });
+                    });
+                    d.src = "https://assets.empowers.io/sdk/d/delivery.dev.min.js";document.querySelector('body').appendChild(d);
+                })();
+            </script>
+           
+</body>
+</html>
